@@ -14,5 +14,5 @@ def mult(arg1, arg2):
     """
     Function that mutiplies two arguments
     """
-    return 2 * 5
+    return arg1 * arg2
 
